@@ -1,7 +1,7 @@
 ---
 title: Getting Started with CODE Your Life
 description: >-
-  Just like writing code to achive a specific outcome, I'd like to encourages you to
+  Just like writing code to achive a specific outcome, I'd like to encourage you to
   be deliberate about your choice and actions to build the life you desire.
 date: 2024-04-19 18:21:00 +09:00
 categories: [getting started]
