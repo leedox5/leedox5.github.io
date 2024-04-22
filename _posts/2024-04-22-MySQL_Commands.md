@@ -16,7 +16,8 @@ The `SELECT` command is the cornerstone of MySQL queries, allowing you to retrie
 
 - **Example**: Retrieve the name and age of all employees:
     ```sql
-    SELECT name, age FROM employees;
+    SELECT name, age 
+      FROM employees;
     ```
 
 ## 2. **INSERT**
@@ -25,8 +26,15 @@ The `INSERT` command lets you add new rows of data into a table. This command ca
 
 - **Example**: Add a new employee to the `employees` table:
     ```sql
-    INSERT INTO employees (name, age, department)
-    VALUES ('John Doe', 30, 'Marketing');
+    INSERT INTO employees (
+      name, 
+      age, 
+      department
+    ) VALUES (
+      'John Doe', 
+      30, 
+      'Marketing'
+    );
     ```
 
 ## 3. **UPDATE**
@@ -36,8 +44,8 @@ The `UPDATE` command allows you to modify existing rows in a table. By specifyin
 - **Example**: Update the age of an employee with a specific ID:
     ```sql
     UPDATE employees
-    SET age = 31
-    WHERE employee_id = 1;
+       SET age = 31
+     WHERE employee_id = 1;
     ```
 
 ## 4. **DELETE**
@@ -46,8 +54,9 @@ The `DELETE` command removes rows from a table based on specified conditions. Al
 
 - **Example**: Remove an employee with a specific ID:
     ```sql
-    DELETE FROM employees
-    WHERE employee_id = 2;
+    DELETE 
+      FROM employees
+     WHERE employee_id = 2;
     ```
 
 ## 5. **JOIN**
@@ -57,8 +66,10 @@ The `JOIN` command allows you to combine data from two or more tables based on a
 - **Example**: Retrieve employees' names and their department names using an `INNER JOIN` between `employees` and `departments` tables:
     ```sql
     SELECT e.name, d.department_name
-    FROM employees e
-    JOIN departments d ON e.department_id = d.department_id;
+      FROM employees e
+          JOIN 
+           departments d 
+          ON e.department_id = d.department_id;
     ```
 
 By mastering these five essential MySQL commands, you can efficiently manage and manipulate data in your applications. These commands form the foundation of working with MySQL, helping you build powerful, data-driven applications with ease.
