@@ -2,7 +2,7 @@
 title: Mastering MySQL-5 Must-Know Commands for Developers
 description: >-
   MySQL is one of the most popular relational database management systems, powering countless websites, applications, and services. As a developer, mastering MySQL is crucial for efficiently managing data and building robust applications. In this post, we'll explore five essential MySQL commands that every developer should know.
-date: 2024-04-19 18:21:00 +09:00
+date: 2024-04-22 14:24:00 +09:00
 categories: [getting started]
 tags:
   [
