@@ -11,7 +11,7 @@ tags:
   ]
 ---
 
-This is where the concepts of "CODE Your Life" and James Clear's best-selling book, *Atomic Habits*, beautifully intersect. Let's explore how we can leverage the principles of both to "hack" our habits for a more fulfilling and productive life.
+This is where the concepts of "CODE Your Life" and James Clear's best-selling book, [*Atomic Habits*](https://amzn.to/3WazLe6), beautifully intersect. Let's explore how we can leverage the principles of both to "hack" our habits for a more fulfilling and productive life.
 
 **The CODE Your Life Philosophy:**
 
@@ -64,3 +64,5 @@ Here's how to apply the "CODE Your Life" approach to optimize your habit formati
 **Conclusion:**
 
 By combining the proactive approach of "CODE Your Life" with the practical steps outlined in Atomic Habits, you gain a powerful framework for self-improvement.  Remember, consistency is key. Just like writing clean, well-structured code, building good habits takes practice and continuous refinement. So, start "coding" your life today, one small step at a time, and witness the positive transformation unfold!
+
+[Claim Your FREE Copy of *Automic Habits*](https://amzn.to/3WazLe6){:target="_blank"}
